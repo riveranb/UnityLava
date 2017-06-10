@@ -1,1 +1,5 @@
-
+2017-06-10 -- River Wang
+1. Create Unity project.
+2. Add assets for lava texturs.
+3. Lava shader (simplefied version) for first try.
+    - Technical reference: http://irrnetcp.proboards.com/thread/2/lava-shader-hlsl
