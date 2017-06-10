@@ -1,4 +1,9 @@
-﻿Shader "Unlit/LavaSimple"
+﻿// Author: River Wang
+ // Date: 2017-06-10
+ // NO ONE can delete comments here.
+ ////////////////////////////////////////////////////////////////////////////////
+ 
+ Shader "Unlit/LavaSimple"
 {
 	Properties
 	{
